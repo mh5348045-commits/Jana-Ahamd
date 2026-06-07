@@ -1,0 +1,6 @@
+{
+  "name": "اختبارات كلية",
+  "description": "منصة تفاعلية لاختبارات كلية العلوم والصحة - أسئلة اليونت الأول بالكامل وبشكل تفاعلي مميز ودون الحاجة للكتابة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
